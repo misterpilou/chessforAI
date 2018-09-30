@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 setup(
     name='cl-chess',
-    package_dir = {'': 'src'},
+    package_dir = {'': 'chess'},
     packages=[''],
     version='1.0',
     description='A program to play chess on the command line',
